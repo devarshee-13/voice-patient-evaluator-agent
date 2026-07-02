@@ -1,0 +1,9 @@
+anthropic
+deepgram-sdk
+python-dotenv
+twilio
+fastapi
+uvicorn[standard]
+websockets
+pydub
+python-multipart

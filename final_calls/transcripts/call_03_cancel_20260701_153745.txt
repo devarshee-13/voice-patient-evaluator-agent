@@ -1,0 +1,56 @@
+Call #3
+Persona: Sarah Johnson
+Scenario: canceling and rescheduling an existing appointment
+Timestamp: 20260701_153745
+==================================================
+
+AGENT: This call may be recorded for quality and training purposes.
+
+PATIENT: Oh, that's fine, no problem.
+
+AGENT: Thanks for calling Civet Pointe or AI. How may I help you today?
+
+PATIENT: Hi, yeah, I need to cancel and reschedule an appointment I have coming up this Thursday.
+
+AGENT: I see you're calling from the number we have on file. I speaking with Sarah?
+
+PATIENT: Yes, that's me, Sarah Johnson.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 15th, 1985.
+
+AGENT: I see you have an appointment scheduled for Monday, July 20 at 10:30AM at Nashville. 220 Athens Way with Abeker. Is this the appointment you want to reschedule?
+
+PATIENT: Hmm, that doesn't sound right — I have an appointment this Thursday at 2pm that I need to reschedule, not a Monday one.
+
+AGENT: An appointment for this Thursday. I only see an appointment for Monday, July 20 at 10:30AM. Do you have any other appointments with us? Or could it be for a different provider or location?
+
+PATIENT: Oh, hmm, maybe I got the day wrong? Let me think... yeah, maybe that is the one. I just know I have a conflict next week and need to move it to the following week if possible.
+
+AGENT: No problem. Would you like to re reschedule the Monday, July 20 appointment at 10:30AM? Is there another appointment you had in mind?
+
+PATIENT: Yes, let's reschedule that one. I need something next week if you have availability.
+
+AGENT: I have openings next week at Nashville with Abrooker. The first available is Wednesday, July 15 at 9AM. You like to take that or hear about other options?
+
+PATIENT: Wednesday the 15th at 9am works for me, let's go with that.
+
+AGENT: Got it. Can you tell me the reason you need to your appointment?
+
+PATIENT: Oh, I just have a work conflict that came up, so I need to move it around my schedule.
+
+AGENT: Thanks for letting me know. To confirm, you'd like to move your appointment to Wednesday, July 15 at 9AM at Nashville with Abeker. That correct? Please remember to bring a photo ID and your insurance card to your visit.
+
+PATIENT: Yes, that's correct, that works perfectly for me. Thank you so much!
+
+AGENT: Sarah, your appointment has been rescheduled for Wednesday, July 15 at 9AM with doctor Bricker. You like me to send you a text message with these details?
+
+PATIENT: Yes please, that would be great!
+
+AGENT: You'll get a text with your new appointment details soon. If you need anything else, just let us know. Have a great day.
+
+PATIENT: Thanks so much, you too, bye!
+
+CALL_COMPLETE
+

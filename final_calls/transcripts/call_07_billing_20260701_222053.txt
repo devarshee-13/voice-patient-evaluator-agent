@@ -1,0 +1,36 @@
+Call #7
+Persona: Sarah Johnson
+Scenario: disputing a bill or asking about an unexpected charge
+Timestamp: 20260701_222053
+==================================================
+
+AGENT: Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. How may I help you today?
+
+PATIENT: Hi, yes, I'm calling because I got a bill in the mail for $285 and I'm kind of confused — I thought my Blue Cross copay was only $40 for visits. Can you help me figure out what's going on?
+
+AGENT: Am I speaking with Sarah?
+
+PATIENT: Yes, that's me — Sarah Johnson.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 15th, 1985.
+
+AGENT: Let me document your billing concern for the clinic team.
+
+PATIENT: Okay, thank you. I just really want to understand why I owe $285 when I expected to only pay a $40 copay.
+
+AGENT: I've logged your question about the $285,000,000,000 and your expected $40 co pay. Clinic support team will review your case and get back to you as soon as they can to explain the charge. Is there anything else I can help you with today?
+
+PATIENT: Wait, did you say $285 billion? That's definitely not right — it should just be $285, like two hundred and eighty-five dollars. Can you make sure that's corrected in whatever you logged?
+
+AGENT: I recorded your concern as a $285 charge. Not billion. The case notes reflect $285, The team will review and follow-up with you. Anything else I can help with?
+
+PATIENT: Okay, good, thank you for clarifying that. And do you have any idea how long it might take for someone to get back to me?
+
+AGENT: The clinic support team will get back to you as soon as they can, usually within a few business days. If you have any other questions, just let me know.
+
+PATIENT: Okay, that works. I'll keep an eye out for their call. Thanks for your help!
+
+CALL_COMPLETE
+

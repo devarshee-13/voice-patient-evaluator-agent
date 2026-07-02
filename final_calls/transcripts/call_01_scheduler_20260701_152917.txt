@@ -1,0 +1,46 @@
+Call #1
+Persona: Sarah Johnson
+Scenario: scheduling a new patient appointment for persistent back pain
+Timestamp: 20260701_152917
+==================================================
+
+AGENT: This call may be recorded for quality and training purposes.
+
+PATIENT: Oh, that's fine, no problem.
+
+AGENT: For calling Pivot Point Ortho. May I help you today?
+
+PATIENT: Hi, yes! I'm looking to schedule a new patient appointment. I've been having some pretty bad lower back pain for the past few weeks.
+
+AGENT: I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+PATIENT: Yes, that's right, Sarah Johnson!
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 15th, 1985.
+
+AGENT: Thank you, Sarah. Just to confirm, you'd like to schedule a new patient appointment for lower back pain. Is that correct?
+
+PATIENT: Yes, exactly. I've been dealing with it for about three weeks now and it's not getting any better.
+
+AGENT: Do you have a specific provider you'd like to see, or are you open to the next available appointment?
+
+PATIENT: I'm open to whoever's available, I just really prefer a morning appointment if possible.
+
+AGENT: It looks like you already have a new patient appointment booked for this type of visit. Would you like to reschedule or cancel your existing appointment, or do you need help with something else?
+
+PATIENT: Oh, I don't think that's right — I haven't called before, this is my first time scheduling. Are you sure that's for me?
+
+AGENT: You can look into this and help sort it out. Please hold while I transfer you to live support.
+
+PATIENT: Oh okay, sure, thank you!
+
+AGENT: It looks like there's already a new patient appointment booked for you, but you weren't aware of it. I'll connect you to our patient support team so they can help sort this out. Please stay on the line. Connecting you to a representative. Please wait.
+
+PATIENT: Okay, I'll hold. Thank you for your help!
+
+AGENT: Good
+
+PATIENT: Oh... okay? Am I being transferred now?
+

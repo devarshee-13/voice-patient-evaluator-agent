@@ -1,0 +1,44 @@
+Call #2
+Persona: Sarah Johnson
+Scenario: requesting a prescription refill for Lisinopril
+Timestamp: 20260701_153319
+==================================================
+
+AGENT: This call may be recorded for quality and training purposes.
+
+PATIENT: Oh, that's totally fine with me.
+
+AGENT: For calling Pivot Point Orthopaedics, part of Pretty Good AI. How
+
+PATIENT: Oh, I think I might have the wrong number — I'm trying to reach my doctor's office for a prescription refill.
+
+AGENT: Great. What can I help you with today?
+
+PATIENT: Hi, yes, I'm calling to get a refill on my blood pressure medication, Lisinopril.
+
+AGENT: You've reached Pivot Point I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+PATIENT: Yes, this is Sarah Johnson.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 15th, 1985.
+
+AGENT: I don't see any medications on your chart that I can refill right now. If you'd like to speak with someone from our team about this, just let me know.
+
+PATIENT: Oh, that's strange — I'm a patient here and I take Lisinopril 10mg daily for my blood pressure. Is there someone else I can speak with about getting that refill?
+
+AGENT: I can connect you to our patient support team. However, I'm a pretty good AI and can do many of the things an operator can. You wanna give me a try?
+
+PATIENT: Sure, I can give it a try! I just need a refill on my Lisinopril 10mg — I'm running low and I take it every day for blood pressure.
+
+AGENT: I'm processing your refill request for lisinopril ten milligram. One moment while I document this for the clinic team.
+
+PATIENT: Great, thank you! Do you know how long it might take before I can pick it up?
+
+AGENT: The clinic support team will review your request and get back to you as soon as they can. If you don't hear from them soon, you can always call back for an update.
+
+PATIENT: Okay, sounds good. Thanks for your help!
+
+CALL_COMPLETE
+

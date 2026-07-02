@@ -1,0 +1,62 @@
+Call #5
+Persona: Sarah Johnson
+Scenario: making an unusual and confusing request
+Timestamp: 20260701_210832
+==================================================
+
+AGENT: Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+
+PATIENT: Hi, um, yes, I need to... okay so I want to make an appointment, but actually wait — can you guys see patients on Sundays? Because that's really the only day that works for me.
+
+AGENT: We're open Monday through Friday, but not on Sundays. Would you like to hear about our weekday options, or is there something else I can help with?
+
+PATIENT: Oh, um, okay well... actually, wait, I don't even know if I need an appointment or if I just need like, a referral? Or maybe I need to talk to someone? I'm not really sure what I need, honestly.
+
+AGENT: No problem. Pivot Point Orthopedics helps with joint, muscle, and bone issues, and we can guide you on whether you need an appointment, a referral, or just some information. You tell me a bit about what's going on or what you're hoping to get help with?
+
+PATIENT: Okay so my knee has been hurting, but actually it might be my hip? I'm not sure. But wait, can I just — do you guys do like, phone consultations? Because I really don't want to come in.
+
+AGENT: We focus on in person visits for orthopedic care, since the physical exam is usually needed to figure out joint or muscle pain. If you'd like, I can help you schedule an in person appointment or connect you with our clinic support team to discuss your options. What would you prefer?
+
+PATIENT: Okay fine, let's just schedule something then. But wait, can it be on a Sunday? Oh right, you said you're not open Sundays. Okay um... what about Saturday?
+
+AGENT: We're not open on Saturdays either. Our appointments are available Monday through Friday, Would you like to look at options for one of those days?
+
+PATIENT: Ugh, okay, fine, Monday through Friday. But actually, wait — can I ask, is this for like a new patient appointment or... I've been there before, I think? Like maybe two years ago? So am I new or not new?
+
+AGENT: I just need to confirm. Are you Sarah? If so, I'll need your date of birth to look up your chart. If not, I'll need your full name and date of birth.
+
+PATIENT: Oh yes, sorry, I'm Sarah Johnson. And my birthday is March 15th, 1985.
+
+AGENT: Just to confirm, I have your name as Sarah Johnson and your date of birth as March 1985. Is that correct?
+
+PATIENT: Yeah, that's right. But wait, so am I a new patient or a returning patient? Because I feel like that changes things, right?
+
+AGENT: You're listed as a returning patient since you've been seen here before. Would you like to look at available appointment times for a follow-up visit?
+
+PATIENT: Oh okay good, yes, let's do that. But actually, can you make it like really early in the morning? Or wait, no, I hate mornings. Maybe like... afternoon? But not too late. I don't know, what do you have?
+
+AGENT: We have openings this week and early next week. Do you prefer a specific day, or should I check for early afternoon times on any weekday?
+
+PATIENT: Um, let's say Wednesday? But actually no, Tuesday might be better. Or maybe Wednesday. Can you just tell me what's available on both days and I'll pick?
+
+AGENT: Let me check for early afternoon openings on Wednesday. One moment. Would you like me to look up your record using the phone number you have on file with us? If so, could you tell me the number you use with our clinic? If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+PATIENT: Oh um, I'm not sure what number I have on file honestly. But you already have my name and birthday so... can we just go with that? And also did you find anything for Tuesday too, not just Wednesday?
+
+AGENT: Last name for me just to make sure I have it exactly right. Then I'll check for those Wednesday afternoon opening.
+
+PATIENT: It's Johnson. J-O-H-N-S-O-N. But wait, what about Tuesday? Can you check Tuesday too?
+
+AGENT: I can check for openings on Tuesday as well. Before I do, could you please spell your first name for me?
+
+PATIENT: It's Sarah, S-A-R-A-H. But okay so can you just check both days at the same time and tell me what's available? And also, do I need to bring anything to the appointment?
+
+AGENT: I can't proceed further right now. But I can make sure our clinic support team follows up with you. Please hold while I get this set up. Connecting you to a representative. Please wait.
+
+PATIENT: Oh wait, why can't you proceed? Did I do something wrong? I'm just trying to make an appointment, this is really confusing.
+
+AGENT: Hello. You've reached the Pretty Good AI test line. Good
+
+PATIENT: Um... what? I'm sorry, what does that mean? Is this still the doctor's office? I'm just trying to schedule an appointment for my knee — or hip, I'm not sure which one.
+

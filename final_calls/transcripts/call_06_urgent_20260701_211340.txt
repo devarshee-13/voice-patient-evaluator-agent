@@ -1,0 +1,52 @@
+Call #6
+Persona: Sarah Johnson
+Scenario: requesting an urgent same-day appointment for worsening symptoms
+Timestamp: 20260701_211340
+==================================================
+
+AGENT: Thanks for calling Pitot Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+
+PATIENT: Hi, yes, I'm really hoping you can help me. I need to get in to see someone today if at all possible — my back pain has gotten really bad and I'm having some new symptoms that are worrying me.
+
+AGENT: On file. Am I speaking with Sarah?
+
+PATIENT: Yes, that's me, Sarah Johnson.
+
+AGENT: Please provide your date of birth.
+
+PATIENT: Sure, it's March 15th, 1985.
+
+AGENT: Thanks, Sarah. Can you tell me a bit about what's going on today? Are you having any urgent symptoms, or is this for a routine concern?
+
+PATIENT: It's definitely urgent. My lower back pain has been getting significantly worse over the last 48 hours, and now I'm having numbness and tingling running down my left leg, which is new and really scaring me.
+
+AGENT: Thank you for sharing that, Sarah. Do you have a specific provider you'd like to see, or are you open to the first available appointment?
+
+PATIENT: I'm open to whoever can see me the soonest — I just really need to be seen today if at all possible.
+
+AGENT: Let me check for the soonest available appointment for you. One moment. The soonest openings are tomorrow, Thursday with doctor Zabigniew Likoski or doctor Kelly Noble. Would you prefer a morning or afternoon appointment?
+
+PATIENT: Oh, I was really hoping to get in today — is there absolutely nothing available today? The numbness and tingling in my leg is really concerning me and I don't want to wait until tomorrow.
+
+AGENT: Or would you like me to check for cancellations or other options?
+
+PATIENT: Yes please, can you check for any cancellations today? And honestly, with the leg numbness and tingling, is this something I should maybe be going to urgent care or the ER for instead?
+
+AGENT: With your symptoms of worsening back pain, new numbness, and tingling down your leg, it's important to be seen soon. If the numbness or tingling is severe, or if you have trouble controlling your bladder or bowels, you should go to urgent care or the emergency room right away. Otherwise, I can keep looking for the soonest appointment here. Would you like to continue with that?
+
+PATIENT: No bladder or bowel issues, thank goodness. Yes, please keep looking for something today — I'd really prefer to be seen here if you can find anything.
+
+AGENT: At the moment, there are no open appointments left for today. I'll keep checking for any cancellations. But the earliest available slot is tomorrow morning at eight. With doctor Zee Bigmu Lukowski. You like to book that just in case?
+
+PATIENT: Yes, let's go ahead and book that for tomorrow morning at 8 just in case, but can you put me on a cancellation list for today too?
+
+AGENT: Sarah, I was able to book you an in person appointment for tomorrow, Thursday, July 2, at 8AM with doctor z Bigniew Likoski at Pivot Point Orthopedics. Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have. Is there anything else you need help with?
+
+PATIENT: That's great, thank you. And you'll call me if something opens up today, right? My number should be on file.
+
+AGENT: Yes. Your number is (609) 853-5680. If a cancellation opens up today, the clinic will contact you right away. Is there anything else I can help you with?
+
+PATIENT: That number sounds right. No, I think that's everything — thank you so much for your help!
+
+CALL_COMPLETE
+

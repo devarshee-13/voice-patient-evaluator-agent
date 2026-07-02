@@ -1,0 +1,16 @@
+Call #4
+Persona: Sarah Johnson
+Scenario: asking about insurance coverage and office hours
+Timestamp: 20260701_210033
+==================================================
+
+AGENT: Thanks for calling Pivot Point Orthopaedics, part of Pretty Good AI. May I help you today?
+
+PATIENT: Hi, yes! I was hoping to find out if you guys accept Blue Cross insurance, and also what your Friday hours are.
+
+AGENT: Pivot Point Orthopedics welcomes most insurance plans. Including Blue Cross. Our Friday hours are 9AM to 12PM. There anything else I can help you with?
+
+PATIENT: Oh great, that's really helpful! No, that's all I needed to know — thanks so much!
+
+CALL_COMPLETE
+
