@@ -52,7 +52,7 @@ DEEPGRAM_TTS_MODEL=aura-asteria-en
 TWILIO_ACCOUNT_SID=
 TWILIO_AUTH_TOKEN=
 TWILIO_PHONE_NUMBER=
-TARGET_PHONE_NUMBER=+18054398008
+TARGET_PHONE_NUMBER=
 PUBLIC_URL=
 ```
 
@@ -126,7 +126,7 @@ Notes
 Only call the assessment number:
 
 ```text
-+18054398008
+target phone number
 ```
 
 Do not commit `.env` or any API keys.
